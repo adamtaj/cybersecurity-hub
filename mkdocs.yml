@@ -1,0 +1,9 @@
+site_name: Adam Tajgalt Security Hub
+
+theme:
+  name: material
+  palette:
+    primary: green
+
+plugins:
+  - search
