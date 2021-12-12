@@ -1,10 +1,9 @@
-title: Cloud security
+title: Vault
 
-# Welcome to MkDocs
+# Hashicorp Vault
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Hashicorp provide usefull labs for all their products [here](https://play.instruqt.com/hashicorp!).
 
-![cybersecurity logo](assets/cybersecurity_logo.jpg)
 
 ## Commands
 
