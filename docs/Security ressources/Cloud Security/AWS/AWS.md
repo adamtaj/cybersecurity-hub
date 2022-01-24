@@ -6,6 +6,8 @@ title: AWS General
 
 ### Official sources
 
+Marc-Henry Website : <https://mhg.ovh/Links/Cloud/aws-general.html>
+
 AWS What's New (short): <https://aws.amazon.com/new>
 
 AWS News Blog: <https://aws.amazon.com/blogs/aws>
