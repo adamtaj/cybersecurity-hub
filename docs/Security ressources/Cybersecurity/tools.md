@@ -6,3 +6,8 @@ When you are deploying infrastructure to AWS, you may spin up EC2 instances whic
 
 <https://blog.assetnote.io/2022/02/13/dangling-eips/>
 
+### API Security
+
+A collection of awesome API Security tools and resources
+
+<https://github.com/arainho/awesome-api-security>
