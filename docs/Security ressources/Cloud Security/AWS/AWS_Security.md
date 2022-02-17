@@ -20,3 +20,9 @@ In this github repository you will find a bunch of opensource tools for Cloud se
 In this github repository you will find a an AWS IAM Security Assessment tool that identifies violations of least privilege and generates a risk-prioritized HTML report.
 
 <https://github.com/salesforce/cloudsplaining>
+
+### AWS Security Podcast
+
+Top 100 ranked Weekly LIVE Interviews with Cloud Security Leaders and Practitioners from around the globe.
+
+<https://cloudsecuritypodcast.tv/#start-here>
