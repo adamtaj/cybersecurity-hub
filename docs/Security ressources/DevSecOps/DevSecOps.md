@@ -21,3 +21,7 @@ Jenkins Security Best Practices [here](https://cycode.com/blog/jenkins-security-
 # Container security
 
 Container security checklist: From the image to the workload [here](https://github.com/krol3/container-security-checklist)
+
+# DevSecOps Roadmap
+
+Roadmap for everyone who wants DevSecOps [here](https://github.com/hahwul/DevSecOps)
