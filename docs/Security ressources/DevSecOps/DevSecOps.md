@@ -27,3 +27,5 @@ Container security checklist: From the image to the workload [here](https://gith
 Roadmap for everyone who wants DevSecOps [here](https://github.com/hahwul/DevSecOps)
 
 DevSecOps: A Complete Guide to What, Why, and How [here](https://www.plutora.com/blog/devsecops-guide)
+
+DevOps & DecSecOps Roadmap [here](https://medium.com/faun/devops-decsecops-roadmap-from-beginner-to-an-expert-c3e4fca2b347)
