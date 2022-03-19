@@ -1,21 +1,7 @@
-title: GCP
+title: Goggle Cloud Platform
 
-# Welcome to MkDocs
+## Secure Architecture
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+The Google Cloud Architecture Framework - provides recommendations and describes best practices to help architects, developers, administrators, and other cloud practitioners design and operate a cloud topology that's secure, efficient, resilient, high-performing, and cost-effective [here](https://www.youtube.com/playlist?list=PLwi6PfxEP7zYLVCK_ywVD-RJNDu6mYXbi)
 
-![cybersecurity logo](assets/cybersecurity_logo.jpg)
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+LandingZone - Cloud Architecture Center [here](https://cloud.google.com/architecture)

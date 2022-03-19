@@ -1,6 +1,12 @@
-title: Cloud security
+title: Cloud Security
 
-# Cloud CSPM products
+## Cloud Foundations
+
+This is a great overview of AWS's "Cloud Foundations
+
+![Cloud foundations](assets/cloud-foundations.jpeg){: align=center}
+
+## Cloud CSPM products
 
 Cloud Security Posture Managementis a class of security tools as defined by Gartner include use cases for infrastructure compliance monitoring, DevOps integration, incident response, risk assessment, and risk visualization.
 
@@ -19,11 +25,23 @@ Fugue | AWS, Azure | <https://www.fugue.co>
 OpenCSPM | ? | <https://github.com/OpenCSPM/opencspm>
 Wiz | AWS, Azure, GCP | <https://www.wiz.io>
 
-# Cloud open source tools
+## Cloud open source tools
 
 RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [here](https://github.com/microsoft/restler-fuzzer)
 
-# Terraform
+## Maturity matrice
 
-Terraform - 5 ways to create Infrastructure in Multiple Environments [here](https://medium.com/bb-tutorials-and-thoughts/terraform-5-ways-to-create-infrastructure-in-multiple-environments-8a6e3f42a694)
+The infographic feature high-level patterns for mapping your company’s technical and strategic transformation.
+
+![Cloud security maturity matrice](assets/cloudsecurity-maturity.jpg){: align=center}
+
+## FinOps
+
+Great eBook that explains the basics of FinOps Whitepaper From FinOps to proven cloud cost management & optimization strategies [here](https://finopsinpractice.org)
+
+## Network
+
+Good practices on how to segregate a network in Cloud environment [here](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
+
+
 
