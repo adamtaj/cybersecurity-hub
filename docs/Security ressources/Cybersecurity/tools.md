@@ -11,3 +11,13 @@ When you are deploying infrastructure to AWS, you may spin up EC2 instances whic
 A collection of awesome API Security tools and resources
 
 <https://github.com/arainho/awesome-api-security>
+
+A guide on how to define an API securing strategy: 
+
+![api_strategy](assets/api_strategy.jpeg)
+
+### AD Security
+
+Interisting tool to audit AD GPOs 
+
+<https://github.com/Group3r/Group3r>

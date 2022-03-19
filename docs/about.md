@@ -2,21 +2,18 @@ Title: About this website
 
 # About this website
 
-This website aims to centralize all cybersecurity ressources I have been able to read or check during my Cybersecurity engineer path.
+This website aims to centralize and share all cybersecurity ressources I have been able to read or check during my Cybersecurity engineer path.
 
-To check my profesionnal journey visit [To be changed](https://www.mkdocs.org).
+## Contact me
 
+For any purpose, send me a private message on [Linkedin](https://www.linkedin.com/in/adam-tajgalt)
 
-## Commands
+## Technical part
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+The website serves static content hosted on a AWS S3 bucket behind a HTTPS CloudFront distribution.
 
-## Project layout
+Webpages are built with MkDocs and Material theme through Github Actions (CI).
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## Architecture
+
+![ata-securityhub-architecture](assets/ata-sechub-archi.png){: align=center}
