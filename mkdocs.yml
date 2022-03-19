@@ -1,0 +1,53 @@
+# Project information
+site_name: Adam Tajgalt Security Hub
+site_author: Adam Tajgalt
+site_description: Centralized place to find interesting cybersecurity ressources for all topics
+copyright: Adam Tajgalt
+
+# Repository
+repo_name: cybersecurity-hub
+repo_url: https://github.com/adamtaj/cybersecurity-hub.git
+
+# Front design
+theme:
+  name: material
+  language: en
+  palette:
+  - media: "(prefers-color-scheme: light"
+    scheme: preference
+    primary: cyan
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to dark mode
+  - media: "(preferes-color-scheme: dark)"
+    scheme: slate
+    primary: white
+    toggle:
+      icon: material/weather-night
+      name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.top
+    - header.autohide
+
+
+
+# Social network link
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/adam-tajgalt
+    - icon: fontawesome/brands/github
+      link: https://github.com/adamtaj
+    
+# Extension
+markdown_extensions:
+  - attr_list
+  - md_in_html
+
+
+
+
+# plugins
+plugins:
+  - search
