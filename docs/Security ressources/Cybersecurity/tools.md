@@ -43,3 +43,13 @@ A collection of awesome security hardening guides, best practices, checklists, b
 List of malware analysis tools and resources.
 
 <https://github.com/rshipp/awesome-malware-analysis>
+
+## Certificat
+
+Tool that search all public certificat for a domain name
+
+<https://crt.sh/>
+
+Tool that identify when a new request of certificat is done
+
+<https://certificate.transparency.dev/>
