@@ -34,6 +34,8 @@ Learning from Cyber Incidents Adapting Aviation Safety Models to Cybersecurity [
 
 framework aims to facilitate automated steps for incident response and forensics based on the AWS Incident Response White Paper [here](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
 
+Cloud threat matrix from Mitre Att&ck [here](https://attack.mitre.org/matrices/enterprise/cloud/)
+
 ### Multi-cloud
 
 Here is a guide to ensure detection is operational and your logs are managed centrally, in real time, at scale, as-code and for free [here](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
