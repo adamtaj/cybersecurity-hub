@@ -43,5 +43,7 @@ Great eBook that explains the basics of FinOps Whitepaper From FinOps to proven 
 
 Good practices on how to segregate a network in Cloud environment [here](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
 
+## Whitepapers
 
+A bench of whitepapers from SANS institute [here](https://www.sans.org/white-papers/?msc=main-nav)
 
