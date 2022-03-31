@@ -14,6 +14,8 @@ A docker threat model is an excellent way to close the security gaps, know what 
 
 Ressource for Container Security / hardening including the full lifecycle [here](https://github.com/krol3/container-security-checklist)
 
+Container Security Checklist [here](https://github.com/krol3/container-security-checklist)
+
 ## Image security
 
 An article on how to make your Docker image more secure [here](https://aws.github.io/aws-eks-best-practices/security/docs/image/)
