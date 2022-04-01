@@ -25,6 +25,16 @@ Fugue | AWS, Azure | <https://www.fugue.co>
 OpenCSPM | ? | <https://github.com/OpenCSPM/opencspm>
 Wiz | AWS, Azure, GCP | <https://www.wiz.io>
 
+## Cloud security posture
+
+What to look for when reviewing a company's infrastructure. Very interisting article on how to understand and asses your cloud infrastructure in order to design a cloud security roadmap [here](https://www.marcolancini.it/2022/blog-cloud-security-infrastructure-review/)
+
+A list of question while reviewing the security architecture of a multi-cloud SaaS company [here](https://roadmap.cloudsecdocs.com/infrastructure-review/)
+
+Very interisting blog with Cloud security topics (Kubernetes, docker image security, aws, azure, GCP, etc) [here](https://cloudsecdocs.com/)
+
+How to define a Cloud security roadmap [here](https://roadmap.cloudsecdocs.com/) and [here](https://www.marcolancini.it/cloud-security-strategies/)
+
 ## Cloud open source tools
 
 RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [here](https://github.com/microsoft/restler-fuzzer)
