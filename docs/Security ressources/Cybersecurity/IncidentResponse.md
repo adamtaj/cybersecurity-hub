@@ -14,6 +14,8 @@ SOC Open Source lesson explain [here](https://www.youtube.com/watch?v=t6PqjLIVgd
 
 guide for AAD SOC - plenty of useful cross-links - Guide Azure Active Directory security operations guide [here](https://docs.microsoft.com/en-us/azure/active-directory/fundamentals/security-operations-introduction)
 
+11 strategies of a world class cybersecurity SOC [here](https://www.mitre.org/publications/technical-papers/11-strategies-world-class-cybersecurity-operations-center)
+
 ### Roles
 
 A #RACI matrix for all #SOC roles ! (By IBM)
@@ -35,6 +37,8 @@ Learning from Cyber Incidents Adapting Aviation Safety Models to Cybersecurity [
 framework aims to facilitate automated steps for incident response and forensics based on the AWS Incident Response White Paper [here](https://github.com/awslabs/aws-automated-incident-response-and-forensics)
 
 Cloud threat matrix from Mitre Att&ck [here](https://attack.mitre.org/matrices/enterprise/cloud/)
+
+Sample of AWS incident response playbooks [here](https://github.com/aws-samples/aws-incident-response-playbooks)
 
 ### Multi-cloud
 
