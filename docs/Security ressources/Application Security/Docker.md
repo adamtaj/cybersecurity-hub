@@ -20,3 +20,7 @@ Container Security Checklist [here](https://github.com/krol3/container-security-
 
 An article on how to make your Docker image more secure [here](https://aws.github.io/aws-eks-best-practices/security/docs/image/)
 
+## Container training
+
+Materials (slides, scripts, demo app, and other code samples) used for various workshops, tutorials, and training sessions around the themes of Docker, containers, and orchestration. [here](https://github.com/jpetazzo/container.training)
+
