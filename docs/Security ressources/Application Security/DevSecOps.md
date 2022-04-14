@@ -58,6 +58,8 @@ Embed Kubernetes security at each phase of the DevOps lifecycle: [here](https://
 
 Shifting Cloud Security Left — Scanning Infrastructure as Code for Security Issues [here](https://www.linkedin.com/feed/update/urn:li:activity:6885570028373078016/?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A6885570028373078016%29)
 
+Interisting blog with several articles on DevSecOps from GitGuardian and secrets detection [here](https://blog.gitguardian.com/)
+
 ### Infrastructure As Code (IaC)
 
 Fantastic Infrastructure as Code security attacks and how to find them [here](https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/)
