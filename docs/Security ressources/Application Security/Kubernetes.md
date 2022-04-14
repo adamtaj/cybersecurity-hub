@@ -18,4 +18,8 @@ Useful guide for Azure AD workload identity federation with Kubernetes [here](ht
 
 A curated list of awesome Kubernetes security resources. [here](https://github.com/ksoclabs/awesome-kubernetes-security)
 
+## Kubernetes hardening
+
+This article go through the security best practices to harden a Kubernetes cluster [here](https://blog.gitguardian.com/hardening-your-k8s-pt-2/#5summary)
+
 
