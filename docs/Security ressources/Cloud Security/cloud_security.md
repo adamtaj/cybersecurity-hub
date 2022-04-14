@@ -49,6 +49,8 @@ The infographic feature high-level patterns for mapping your company’s technic
 
 Great eBook that explains the basics of FinOps Whitepaper From FinOps to proven cloud cost management & optimization strategies [here](https://finopsinpractice.org)
 
+Great tool for cost estimation based on terraform and can be integrated in CI/CD pipeline [here](https://github.com/infracost/infracost)
+
 ## Network
 
 Good practices on how to segregate a network in Cloud environment [here](https://github.com/sergiomarotco/Network-segmentation-cheat-sheet)
