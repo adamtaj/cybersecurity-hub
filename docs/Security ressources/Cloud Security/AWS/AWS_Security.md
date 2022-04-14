@@ -25,6 +25,10 @@ Prowler is an Open Source security tool to perform AWS security best practices a
 
 <https://github.com/prowler-cloud/prowler>
 
+This blog provides you everyweek all new open source tool from aws.
+
+<https://blog.beachgeek.co.uk/>
+
 ## AWS Security Podcast
 
 Top 100 ranked Weekly LIVE Interviews with Cloud Security Leaders and Practitioners from around the globe.
