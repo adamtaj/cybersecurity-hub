@@ -40,6 +40,8 @@ Cloud threat matrix from Mitre Att&ck [here](https://attack.mitre.org/matrices/e
 
 Sample of AWS incident response playbooks [here](https://github.com/aws-samples/aws-incident-response-playbooks)
 
+Incident report: From CLI to console, chasing an attacker in AWS. Feedback from expel on how they detected an AWS attack [here](https://expel.com/blog/incident-report-from-cli-to-console-chasing-an-attacker-in-aws/)
+
 ### Multi-cloud
 
 Here is a guide to ensure detection is operational and your logs are managed centrally, in real time, at scale, as-code and for free [here](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
