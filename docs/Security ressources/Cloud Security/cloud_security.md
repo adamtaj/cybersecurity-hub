@@ -35,6 +35,8 @@ Very interisting blog with Cloud security topics (Kubernetes, docker image secur
 
 How to define a Cloud security roadmap [here](https://roadmap.cloudsecdocs.com/) and [here](https://www.marcolancini.it/cloud-security-strategies/)
 
+How to mitigate cloud vulnerabilities by NSA [here](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF)
+
 ## Cloud open source tools
 
 RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [here](https://github.com/microsoft/restler-fuzzer)
