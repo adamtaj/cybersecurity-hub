@@ -28,3 +28,9 @@ Several resources for Azure learning and Azure certifications. This time introdu
 ### Lab
 
 Several lab for GCP are available <https://codelabs.developers.google.com>
+
+## Jenkins
+
+### Vulnerable environment
+
+Deliberately vulnerable CI/CD environment. Hack CI/CD pipelines, catch the flags <https://github.com/cider-security-research/cicd-goat>
