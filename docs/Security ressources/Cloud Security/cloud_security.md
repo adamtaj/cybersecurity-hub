@@ -37,6 +37,8 @@ How to define a Cloud security roadmap [here](https://roadmap.cloudsecdocs.com/)
 
 How to mitigate cloud vulnerabilities by NSA [here](https://media.defense.gov/2020/Jan/22/2002237484/-1/-1/0/CSI-MITIGATING-CLOUD-VULNERABILITIES_20200121.PDF)
 
+Modern Cloud Governance with a well balanced security / Cost and Business value [here](https://www.chrisfarris.com/post/cloud-gov/)
+
 ## Cloud open source tools
 
 RESTler is the first stateful REST API fuzzing tool for automatically testing cloud services through their REST APIs and finding security and reliability bugs in these services. [here](https://github.com/microsoft/restler-fuzzer)
