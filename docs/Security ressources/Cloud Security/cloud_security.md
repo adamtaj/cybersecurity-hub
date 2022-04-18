@@ -61,6 +61,8 @@ Good practices on how to segregate a network in Cloud environment [here](https:/
 
 A bench of whitepapers from SANS institute [here](https://www.sans.org/white-papers/?msc=main-nav)
 
+Why IAM is a key component in cloud, and what are the threats [here](https://unit42.paloaltonetworks.com/iam-cloud-threat-research/)
+
 ## Awareness
 
 This article explains how to create a proactive security & engineering culture with awareness strategy [here](https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f)
