@@ -44,6 +44,8 @@ Incident report: From CLI to console, chasing an attacker in AWS. Feedback from 
 
 Security Logging in AWS cloud environment: [here](Security Logging in Cloud Environments - AWS)
 
+Great tool to analyze cloudtrail events for AccessDenied and give the reason of them [here](https://github.com/ermetic/access-undenied-aws)
+
 ### Multi-cloud
 
 Here is a guide to ensure detection is operational and your logs are managed centrally, in real time, at scale, as-code and for free [here](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
