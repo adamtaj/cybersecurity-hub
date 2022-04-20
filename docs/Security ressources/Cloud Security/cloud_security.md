@@ -49,6 +49,8 @@ The infographic feature high-level patterns for mapping your company’s technic
 
 ![Cloud security maturity matrice](assets/cloudsecurity-maturity.jpg){: align=center}
 
+This page lists security mistakes by cloud service providers (AWS, GCP, and Azure). These are public mistakes on the cloud providers' side of the shared responsibility model [here](https://github.com/SummitRoute/csp_security_mistakes)
+
 ## FinOps
 
 Great eBook that explains the basics of FinOps Whitepaper From FinOps to proven cloud cost management & optimization strategies [here](https://finopsinpractice.org)
