@@ -38,7 +38,9 @@ List of the top 10 CI/CD security risks [here](https://www.cidersecurity.io/top-
 
 This library contains list of tools and methodologies accompanied with resources. [here](https://github.com/sottlmarek/DevSecOps) and [here](https://github.com/TaptuIT/awesome-devsecops)
 
+### DevSecOps Roadmap
 
+Collection and Roadmap for everyone who wants DevSecOps [here](https://github.com/hahwul/DevSecOps)
 
 ### DevSecOps Gitlab dynamic template management
 
