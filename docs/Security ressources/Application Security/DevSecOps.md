@@ -34,6 +34,12 @@ Repo - Common Threat Matrix for CI/CD Pipeline [here](https://github.com/rung/th
 
 List of the top 10 CI/CD security risks [here](https://www.cidersecurity.io/top-10-cicd-security-risks/)
 
+### DevSecOps tools
+
+This library contains list of tools and methodologies accompanied with resources. [here](https://github.com/sottlmarek/DevSecOps) and [here](https://github.com/TaptuIT/awesome-devsecops)
+
+
+
 ### DevSecOps Gitlab dynamic template management
 
 Dynamic pipeline with Gitlab [here](https://www.objectif-libre.com/fr/blog/2021/02/23/une-nouvelle-ere-pour-gitlab-ci-pipelines-dynamiques/).
