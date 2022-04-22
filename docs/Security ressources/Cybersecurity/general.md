@@ -28,6 +28,10 @@ Great CISO series for Chief Information Security Officer (CISO) Workshop Trainin
 
 <https://docs.microsoft.com/en-us/security/ciso-workshop/ciso-workshop?view=o365-worldwide>
 
+## Cybersecurity onepager for Awareness
+
+SecurityZines provider onepager with graphical way of learning concepts of Application & Web security <https://securityzines.com/>
+
 ## Cybersecurity career
 
 Valuable overview out, providing a career /certification orientation for young up to experienced professionals in the #Security domain
