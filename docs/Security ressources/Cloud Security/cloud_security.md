@@ -10,6 +10,8 @@ This is a great overview of AWS's "Cloud Foundations
 
 A great place that sum-up useful knowledgebases [here](https://www.nojones.net/cloud-security-resources)
 
+Awesome cloud security ressources [here](https://github.com/4ndersonLin/awesome-cloud-security)
+
 ## Cloud CSPM products
 
 Cloud Security Posture Managementis a class of security tools as defined by Gartner include use cases for infrastructure compliance monitoring, DevOps integration, incident response, risk assessment, and risk visualization.
