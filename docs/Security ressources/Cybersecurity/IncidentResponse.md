@@ -49,3 +49,7 @@ Great tool to analyze cloudtrail events for AccessDenied and give the reason of 
 ### Multi-cloud
 
 Here is a guide to ensure detection is operational and your logs are managed centrally, in real time, at scale, as-code and for free [here](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
+
+### Vulnerability management
+
+When security vulnerabilities are discovered by researchers, proper reporting channels are often lacking. As a result, vulnerabilities may be left unreported. This document defines a machine-parsable format ("security.txt") to help organizations describe their vulnerability disclosure practices to make it easier for researchers to report vulnerabilities. [here](https://www.rfc-editor.org/rfc/rfc9116)
