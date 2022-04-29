@@ -35,6 +35,10 @@ Top 100 ranked Weekly LIVE Interviews with Cloud Security Leaders and Practition
 
 <https://cloudsecuritypodcast.tv/#start-here>
 
+AWS security digest that centralize all the best newsletter for aws 
+
+<https://app.mailbrew.com/zoph/aws-security-digest-HrkhwqNrwBBk>
+
 ## Design AWS cloud architecture
 
 Architecture framework to set up the Cloud Foundation, which every company should set up at some point in the transition to Cloud. 
