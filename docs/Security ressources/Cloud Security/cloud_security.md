@@ -8,7 +8,7 @@ This is a great overview of AWS's "Cloud Foundations
 
 ## Cloud security ressources
 
-A great place that sum-up useful knowledgebases [here]<https://www.nojones.net/cloud-security-resources>
+A great place that sum-up useful knowledgebases [here](https://www.nojones.net/cloud-security-resources)
 
 ## Cloud CSPM products
 
