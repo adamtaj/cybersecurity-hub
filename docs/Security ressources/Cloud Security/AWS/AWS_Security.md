@@ -50,3 +50,7 @@ Architecture framework to set up the Cloud Foundation, which every company shoul
 Best Practices for AWS Organizations Service Control Policies in a Multi-Account Environment 
 
 <https://aws.amazon.com/fr/blogs/industries/best-practices-for-aws-organizations-service-control-policies-in-a-multi-account-environment/>
+
+How to control access to AWS resources based on AWS account, OU, or organization
+
+<https://aws.amazon.com/fr/blogs/security/how-to-control-access-to-aws-resources-based-on-aws-account-ou-or-organization/>
