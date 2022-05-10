@@ -29,6 +29,10 @@ This blog provides you everyweek all new open source tool from aws.
 
 <https://blog.beachgeek.co.uk/>
 
+This tool will scan for publicly accessible assets on your AWS environment.
+
+<https://github.com/9rnt/poro>
+
 ## AWS Security Podcast
 
 Top 100 ranked Weekly LIVE Interviews with Cloud Security Leaders and Practitioners from around the globe.
