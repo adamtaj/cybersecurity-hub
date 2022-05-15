@@ -58,3 +58,10 @@ Best Practices for AWS Organizations Service Control Policies in a Multi-Account
 How to control access to AWS resources based on AWS account, OU, or organization
 
 <https://aws.amazon.com/fr/blogs/security/how-to-control-access-to-aws-resources-based-on-aws-account-ou-or-organization/>
+
+## Serverless security
+
+Security reference architecture for a serverless application 
+
+<https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2>
+
