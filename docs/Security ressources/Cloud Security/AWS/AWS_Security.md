@@ -10,6 +10,10 @@ In this link you will find an article on how to establish a cloud security progr
 
 <https://www.marcolancini.it/2021/blog-cloud-security-roadmap/>
 
+An interesting resource which aims to provide a security maturity model tailored to AWS
+
+<https://maturitymodel.security.aws.dev/en/model/>
+
 
 ## AWS security opensource tools
 
