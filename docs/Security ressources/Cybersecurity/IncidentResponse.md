@@ -46,6 +46,8 @@ Security Logging in AWS cloud environment: [here](Security Logging in Cloud Envi
 
 Great tool to analyze cloudtrail events for AccessDenied and give the reason of them [here](https://github.com/ermetic/access-undenied-aws)
 
+Slides of a post discussing the public catalog of AWS Customer Security Incidents, covering over twenty different public breaches. It walks through the technical details of these attacks, establish the common root causes, look at lessons learned, and establish how you can proactively secure your environment against these real world risks [here](https://speakerdeck.com/ramimac/learning-from-aws-customer-security-incidents-2022?slide=31)
+
 ### Multi-cloud
 
 Here is a guide to ensure detection is operational and your logs are managed centrally, in real time, at scale, as-code and for free [here](https://m365internals.com/2021/07/05/why-are-windows-defender-av-logs-so-important-and-how-to-monitor-them-with-azure-sentinel/)
