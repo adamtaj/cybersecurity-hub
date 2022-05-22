@@ -69,3 +69,8 @@ Security reference architecture for a serverless application
 
 <https://anunay-bhatt.medium.com/security-reference-architecture-for-a-serverless-application-2fcd25b1d5e2>
 
+Learn how to implement security in the cloud at the application laye with Lambda
+
+<https://scalesec.com/blog/implementing-secure-code-in-the-cloud/>
+
+
