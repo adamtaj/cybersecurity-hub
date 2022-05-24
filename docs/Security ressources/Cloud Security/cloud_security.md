@@ -77,3 +77,7 @@ Why IAM is a key component in cloud, and what are the threats [here](https://uni
 
 This article explains how to create a proactive security & engineering culture with awareness strategy [here](https://medium.com/life-at-chime/monocle-how-chime-creates-a-proactive-security-engineering-culture-part-1-dedd3846127f)
 
+## Hack the cloud
+
+Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies. [here](https://hackingthe.cloud)
+
