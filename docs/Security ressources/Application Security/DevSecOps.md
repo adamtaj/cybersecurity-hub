@@ -74,6 +74,8 @@ Fantastic Infrastructure as Code security attacks and how to find them [here](ht
 
 Terraform - 5 ways to create Infrastructure in Multiple Environments [here](https://medium.com/bb-tutorials-and-thoughts/terraform-5-ways-to-create-infrastructure-in-multiple-environments-8a6e3f42a694)
 
+Hide malicious Terraform code with ANSI escape sequences [here](https://hackingthe.cloud/terraform/terraform_ansi_escape_evasion/)
+
 ## Secure Coding
 
 This ressource present a lot of best practices regarding application coding. This guide takes into account that many of our developers write integration pieces with the Lightning Platform and includes examples from other web platforms such as Java, ASP.NET, PHP and Ruby [here](https://developer.salesforce.com/docs/atlas.en-us.secure_coding_guide.meta/secure_coding_guide/secure_coding_guidelines.htm)
