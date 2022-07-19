@@ -81,3 +81,8 @@ Hide malicious Terraform code with ANSI escape sequences [here](https://hackingt
 ## Secure Coding
 
 This ressource present a lot of best practices regarding application coding. This guide takes into account that many of our developers write integration pieces with the Lightning Platform and includes examples from other web platforms such as Java, ASP.NET, PHP and Ruby [here](https://developer.salesforce.com/docs/atlas.en-us.secure_coding_guide.meta/secure_coding_guide/secure_coding_guidelines.htm)
+
+
+## Standard & Compliance
+
+The CIS benchmark for Software Supply Chain available [here](https://github.com/aquasecurity/chain-bench/blob/main/docs/CIS-Software-Supply-Chain-Security-Guide-v1.0.pdf)
