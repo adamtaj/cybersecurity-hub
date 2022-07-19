@@ -81,3 +81,8 @@ This article explains how to create a proactive security & engineering culture w
 
 Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies. [here](https://hackingthe.cloud)
 
+## Threat & risks in the cloud
+
+Top 11 of threats in the cloud in 2022 [here](https://www.linkedin.com/pulse/top-11-des-menaces-sur-le-cloud-computing-en-2022-mohamed-abdennebi/?trackingId=tyHy8xy1SH2T6C3pY%2BEmTg%3D%3D)
+
+
