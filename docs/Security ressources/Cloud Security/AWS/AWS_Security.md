@@ -73,4 +73,10 @@ Learn how to implement security in the cloud at the application laye with Lambda
 
 <https://scalesec.com/blog/implementing-secure-code-in-the-cloud/>
 
+## AWS IAM Least privilege
+
+Speeding Up AWS IAM Least Privileges with Cloudsplaining, Elastic Stack, & AWS Access Analyzer
+
+<https://www.youtube.com/watch?v=LJfe1jMAeFk>
+
 
