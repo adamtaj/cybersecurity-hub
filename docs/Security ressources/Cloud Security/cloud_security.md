@@ -85,4 +85,6 @@ Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offe
 
 Top 11 of threats in the cloud in 2022 [here](https://www.linkedin.com/pulse/top-11-des-menaces-sur-le-cloud-computing-en-2022-mohamed-abdennebi/?trackingId=tyHy8xy1SH2T6C3pY%2BEmTg%3D%3D)
 
+## Cloud vulnerabilities
 
+This page is a complete database for all Cloud vulnerabilities [here](https://www.cloudvulndb.org/results?q=)
