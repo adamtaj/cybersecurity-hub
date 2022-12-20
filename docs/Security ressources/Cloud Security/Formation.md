@@ -29,6 +29,8 @@ Several resources for Azure learning and Azure certifications. This time introdu
 
 Several lab for GCP are available <https://codelabs.developers.google.com>
 
+GCPGoat is a vulnerable by design infrastructure on GCP featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as IAM, Storage Bucket, Cloud Functions and Compute Engine. GCPGoat mimics real-world infrastructure but with added vulnerabilities. It features multiple escalation paths and is focused on a black-box approach. <https://github.com/ine-labs/GCPGoat>
+
 ## Jenkins
 
 ### Vulnerable environment
