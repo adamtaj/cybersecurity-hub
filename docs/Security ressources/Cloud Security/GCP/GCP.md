@@ -9,3 +9,7 @@ LandingZone - Cloud Architecture Center [here](https://cloud.google.com/architec
 ## GCP threats
 
 Mitigating the top 10 security threats to GCP using the CIS Google Cloud Platform Foundation Benchmark [here](https://research.nccgroup.com/2022/04/20/mitigating-the-top-10-security-threats-to-gcp-using-the-cis-google-cloud-platform-foundation-benchmark%EF%BF%BC/)
+
+## GKE
+
+Auditing GKE Clusters across the entire organization [here](https://cloud.google.com/blog/topics/developers-practitioners/auditing-gke-clusters-across-entire-organization/?hl=en)
