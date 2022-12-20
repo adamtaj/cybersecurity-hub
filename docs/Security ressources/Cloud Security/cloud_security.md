@@ -90,3 +90,7 @@ Top 11 of threats in the cloud in 2022 [here](https://www.linkedin.com/pulse/top
 ## Cloud vulnerabilities
 
 This page is a complete database for all Cloud vulnerabilities [here](https://www.cloudvulndb.org/results?q=)
+
+## Zero trust
+
+An road map to zero trust architecture [here](https://zerotrustroadmap.org)
