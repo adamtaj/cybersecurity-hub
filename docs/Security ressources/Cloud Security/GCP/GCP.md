@@ -1,4 +1,4 @@
-title: Goggle Cloud Platform
+title: Google Cloud Platform
 
 ## Secure Architecture
 
