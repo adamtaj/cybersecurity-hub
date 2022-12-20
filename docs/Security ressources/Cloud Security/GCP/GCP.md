@@ -13,3 +13,5 @@ Mitigating the top 10 security threats to GCP using the CIS Google Cloud Platfor
 ## GKE
 
 Auditing GKE Clusters across the entire organization [here](https://cloud.google.com/blog/topics/developers-practitioners/auditing-gke-clusters-across-entire-organization/?hl=en)
+
+Secure GKE clusters with Custom Organization Policies in GCP [here](https://julian-wieg.medium.com/visualizing-multi-cloud-iam-concepts-63525967c0a7)
