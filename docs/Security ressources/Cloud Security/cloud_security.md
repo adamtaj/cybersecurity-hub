@@ -94,3 +94,7 @@ This page is a complete database for all Cloud vulnerabilities [here](https://ww
 ## Zero trust
 
 An road map to zero trust architecture [here](https://zerotrustroadmap.org)
+
+## IAM
+
+Visualizing Multi Cloud IAM Concepts [here](https://julian-wieg.medium.com/visualizing-multi-cloud-iam-concepts-63525967c0a7)
