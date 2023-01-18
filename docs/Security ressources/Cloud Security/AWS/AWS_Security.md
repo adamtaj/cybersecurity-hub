@@ -79,4 +79,7 @@ Speeding Up AWS IAM Least Privileges with Cloudsplaining, Elastic Stack, & AWS A
 
 <https://www.youtube.com/watch?v=LJfe1jMAeFk>
 
+Different scenari for IAM privilege escalation based on permission
+
+<https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/>
 
