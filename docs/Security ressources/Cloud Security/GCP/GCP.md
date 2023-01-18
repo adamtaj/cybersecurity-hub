@@ -15,3 +15,7 @@ Mitigating the top 10 security threats to GCP using the CIS Google Cloud Platfor
 Auditing GKE Clusters across the entire organization [here](https://cloud.google.com/blog/topics/developers-practitioners/auditing-gke-clusters-across-entire-organization/?hl=en)
 
 Secure GKE clusters with Custom Organization Policies in GCP [here](https://julian-wieg.medium.com/visualizing-multi-cloud-iam-concepts-63525967c0a7)
+
+## IAM permission
+
+Different permission that allow privilege escalation on GCP [here](https://rhinosecuritylabs.com/gcp/privilege-escalation-google-cloud-platform-part-1/) and [here](https://rhinosecuritylabs.com/cloud-security/privilege-escalation-google-cloud-platform-part-2/)
