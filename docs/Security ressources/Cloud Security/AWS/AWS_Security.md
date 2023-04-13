@@ -83,3 +83,9 @@ Different scenari for IAM privilege escalation based on permission
 
 <https://rhinosecuritylabs.com/aws/aws-privilege-escalation-methods-mitigation/>
 
+## AWS KMS
+
+Defining threat model and attack vector on AWS KMS service
+
+<https://airwalkreply.com/aws-kms-threat-model>
+
