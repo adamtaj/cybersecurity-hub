@@ -14,6 +14,10 @@ An interesting resource which aims to provide a security maturity model tailored
 
 <https://maturitymodel.security.aws.dev/en/model/>
 
+List of AWS Guardrails for security guidelines for services
+
+<https://test.turbot.com/help/security>
+
 
 ## AWS security opensource tools
 
