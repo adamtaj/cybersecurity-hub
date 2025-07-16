@@ -37,3 +37,7 @@ SecurityZines provider onepager with graphical way of learning concepts of Appli
 Valuable overview out, providing a career /certification orientation for young up to experienced professionals in the #Security domain
 
 <https://www.digitalworld.net/sites/default/files/document/2021-02/Cyber%20Security%20%20Professional%20Qualifications.pdf>
+
+## AI security
+
+This repository provides practical resources, templates, and documentation to help red teamers, security researchers, and developers test and assess LLMs and AI-powered applications from OWASP <https://github.com/joey-melo/payloads/tree/main/OWASP%20AITG-APP>
