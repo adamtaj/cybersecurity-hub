@@ -41,3 +41,5 @@ Valuable overview out, providing a career /certification orientation for young u
 ## AI security
 
 This repository provides practical resources, templates, and documentation to help red teamers, security researchers, and developers test and assess LLMs and AI-powered applications from OWASP <https://github.com/joey-melo/payloads/tree/main/OWASP%20AITG-APP>
+
+This artcile explains how to secure MCP servers <https://semgrep.dev/blog/2025/a-security-engineers-guide-to-mcp/>
